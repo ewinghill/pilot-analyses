@@ -7,3 +7,5 @@ library(ggplot2)
 library(psych)
 
 # new code
+
+write.csv("...")
